@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ca340a3-f029-42dc-958a-4e35f4e628b4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/stqa/pft/sandbox/MyFirstProgramme1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/stqa/pft/sandbox/MyFirstProgramme1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/stqa/pft/sandbox/MyFirstProgramme1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/stqa/pft/sandbox/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/stqa/pft/sandbox/Point.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,20 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MyFirstProgramme1.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ru/stqa/pft/sandbox/MyFirstProgramme1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="88" selection-start-line="10" selection-start-column="88" selection-end-line="10" selection-end-column="88" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Point.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Point.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ru/stqa/pft/sandbox/Point.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            <state relative-caret-position="255">
+              <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -54,8 +45,9 @@
         <option value="$PROJECT_DIR$/src/ru/stqa/pft/sandbox/Square.java" />
         <option value="$PROJECT_DIR$/src/ru/stqa/pft/sandbox/Main.java" />
         <option value="$PROJECT_DIR$/src/ru/stqa/pft/sandbox/PointTest.java" />
-        <option value="$PROJECT_DIR$/src/ru/stqa/pft/sandbox/Point.java" />
+        <option value="$PROJECT_DIR$/src/ru/stqa/pft/sandbox/Point2.java" />
         <option value="$PROJECT_DIR$/src/ru/stqa/pft/sandbox/MyFirstProgramme1.java" />
+        <option value="$PROJECT_DIR$/src/ru/stqa/pft/sandbox/Point.java" />
       </list>
     </option>
   </component>
@@ -68,7 +60,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="7" />
     <option name="y" value="40" />
     <option name="width" value="1857" />
@@ -196,6 +188,16 @@
       <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.MyFirstProgramme1" />
       <module name="java_pfp" />
     </configuration>
+    <configuration name="MyFirstProgramme1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.MyFirstProgramme1" />
+      <module name="java_pfp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pft.sandbox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Point" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.Point" />
       <module name="java_pfp" />
@@ -223,11 +225,13 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.MyFirstProgramme1" />
       <item itemvalue="Application.Point" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Point" />
+        <item itemvalue="Application.MyFirstProgramme1" />
         <item itemvalue="Application.MyFirstProgramme1" />
       </list>
     </recent_temporary>
@@ -249,32 +253,31 @@
       <workItem from="1524489564047" duration="751000" />
       <workItem from="1524550166775" duration="5163000" />
       <workItem from="1524560039342" duration="1020000" />
-      <workItem from="1524561332432" duration="1449000" />
+      <workItem from="1524561332432" duration="7375000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23357000" />
+    <option name="totallyTimeSpent" value="29283000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="40" width="1857" height="943" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32911393" />
+      <window_info anchor="bottom" id="Messages" order="7" visible="true" weight="0.32911393" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32911393" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32911393" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18847604" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18847604" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -402,17 +405,30 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/stqa/pft/sandbox/PointTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/ru/stqa/pft/sandbox/Point.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/stqa/pft/sandbox/Point2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        <state relative-caret-position="30">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding>
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/stqa/pft/sandbox/MyFirstProgramme1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="88" selection-start-line="10" selection-start-column="88" selection-end-line="10" selection-end-column="88" />
+        <state relative-caret-position="180">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/stqa/pft/sandbox/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
         </state>
       </provider>
     </entry>
